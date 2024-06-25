@@ -19,4 +19,18 @@
     <string name="title_song_detail">Song Detail</string>
     <string name="article_title">Beatles Anthology Vol. 1</string>
     <string name="article_subtitle">Behind That Locked Door: Beatles Rarities!</string>
+
+    <!-- Text for the fragment. -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="yes_message">ARTICLE: Like</string>
+    <string name="no_message">ARTICLE: Thanks</string>
+    <string name="question_article">LIKE THE ARTICLE?</string>
+
+    <!-- Text for the button in FragmentExample2. -->
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- Text for the exception message in FragmentCommunicate. -->
+    <string name="exception_message">must implement OnFragmentInteractionListener</string>
 </resources>
